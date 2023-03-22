@@ -1,5 +1,3 @@
-For modern platform:
-
 - Container memory usage percentage: {vm.memory.pools..usage} (Operation Center and Controller)
 
 - Container CPU usage percentage: {system.cpu.load} (Operation Center and Controller)
